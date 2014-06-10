@@ -6,12 +6,12 @@ Summary:	KDE space arcade game for two players
 Summary(pl.UTF-8):	Gra zręcznościowa pod KDE dla dwóch graczy
 Summary(pt_BR.UTF-8):	Versão do jogo Duelo Espacial para o KDE
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	52fe01b424df72e10e146a0ef9c8ee62
+# Source0-md5:	302499acbf34a4d2225782e59cc3cd3a
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
